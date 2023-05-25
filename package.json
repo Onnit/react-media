@@ -24,7 +24,7 @@
     "testTypes": "tsc --noEmit --jsx react typeTest.tsx"
   },
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "^17.0.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.9.6",
